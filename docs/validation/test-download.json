@@ -1,0 +1,22 @@
+﻿{
+    "tag":  "proposal-0.1-test1",
+    "source_commit":  "b7edf7cfa0c803dae68a3eee7d17218bb584a56f",
+    "release_url":  "https://github.com/antikristianos/MEE-Tooltip-Only-Proposal/releases/tag/proposal-0.1-test1",
+    "download_url":  "https://github.com/antikristianos/MEE-Tooltip-Only-Proposal/releases/download/proposal-0.1-test1/MEE-Unified-0.1-test.zip",
+    "sha256":  "c0173e54082808e756748274fe641ef8bdb2de549f6216f5b8538f8358e0e576",
+    "mod_payload_files":  64,
+    "archive_files":  66,
+    "public_download_verified":  true,
+    "assets":  [
+                   {
+                       "name":  "MEE-Unified-0.1-test.zip",
+                       "size":  1262218,
+                       "browser_download_url":  "https://github.com/antikristianos/MEE-Tooltip-Only-Proposal/releases/download/proposal-0.1-test1/MEE-Unified-0.1-test.zip"
+                   },
+                   {
+                       "name":  "MEE-Unified-0.1-test.zip.sha256",
+                       "size":  91,
+                       "browser_download_url":  "https://github.com/antikristianos/MEE-Tooltip-Only-Proposal/releases/download/proposal-0.1-test1/MEE-Unified-0.1-test.zip.sha256"
+                   }
+               ]
+}

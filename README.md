@@ -57,6 +57,10 @@ The executed validation uses JDK 25. See [the test log](docs/validation/automate
 
 ## Trying the proposal
 
+Download the ready-to-install [MEE Unified 0.1 testing ZIP](https://github.com/antikristianos/MEE-Tooltip-Only-Proposal/releases/download/proposal-0.1-test1/MEE-Unified-0.1-test.zip) from the [GitHub testing prerelease](https://github.com/antikristianos/MEE-Tooltip-Only-Proposal/releases/tag/proposal-0.1-test1). It contains the single mod folder, an English installation/testing guide and a file-hash manifest. Copy `MoodleEffectsExplainedUnified` into your local `Zomboid/mods/` directory. See [installation instructions](docs/TESTING-DOWNLOAD.md).
+
+This download packages runtime commit `b7edf7cfa0c803dae68a3eee7d17218bb584a56f`; it is an unofficial author-review build. The [ZIP checksum](https://github.com/antikristianos/MEE-Tooltip-Only-Proposal/releases/download/proposal-0.1-test1/MEE-Unified-0.1-test.zip.sha256) and [verified publication record](docs/validation/test-download.json) identify the exact artifact. Export another committed candidate with `./tools/Export-TestPackage.ps1 -Commit <commit> -OutputPath <new-zip-path>`.
+
 Use `Contents/mods/MoodleEffectsExplainedUnified` as a local mod package. Enable **Moodle Effects Explained - Unified Repair Proposal** and disable the three old MEE editions, which share internal MEE state and are alternate implementations of the same mod. There are no formal incompatibility declarations. Restart the whole game process between mod configurations.
 
 Only one MEE provider is required. Choose companions normally; do not manually select an MEE variant or reorder it around those companions. Manual acceptance is recorded per test; the unperformed fourth point is not relabelled as passed.
