@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Mărimea fontului pentru indiciile stărilor",
+    "UI_MEE_TooltipFontSize_Tooltip": "Schimbă doar mărimea fontului indiciilor pentru stări afișate de Moodle Effects Explained.",
+    "UI_MEE_FallbackTooltipShadow": "Umbra de fundal a indiciului de rezervă",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Afectează doar indiciul intern de rezervă folosit când Moodles in Lua nu este activ. Dezactivează opțiunea dacă un alt mod de interfață provoacă probleme vizuale cu umbra indiciului.",
+    "UI_MEE_FontSmall": "Mic",
+    "UI_MEE_FontMedium": "Mediu",
+    "UI_MEE_FontLarge": "Mare",
+    "UI_MEE_TooltipDescriptionMode": "Mod descriere moodle",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Alege dacă tooltipurile MEE afișează descrierile MEE extinse, descrierile vanilla sau ambele. Rendererele externe pot folosi în continuare cheile de traducere încărcate.",
+    "UI_MEE_DescriptionModeMEE": "Descrieri MEE",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + descrieri vanilla",
+    "UI_MEE_DescriptionModeVanilla": "Descrieri vanilla",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}

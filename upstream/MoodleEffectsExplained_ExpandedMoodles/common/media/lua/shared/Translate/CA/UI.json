@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Mida de la lletra dels consells dels moodles",
+    "UI_MEE_TooltipFontSize_Tooltip": "Canvia només la mida de la lletra dels consells que Moodle Effects Explained dibuixa per als moodles.",
+    "UI_MEE_FallbackTooltipShadow": "Ombra de fons del consell alternatiu",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Només afecta el consell alternatiu intern utilitzat quan Moodles in Lua no és actiu. Desactiva-ho si un altre mod d'interfície causa problemes visuals amb l'ombra del consell.",
+    "UI_MEE_FontSmall": "Petit",
+    "UI_MEE_FontMedium": "Mitjà",
+    "UI_MEE_FontLarge": "Gran",
+    "UI_MEE_TooltipDescriptionMode": "Mode de descripció dels moodles",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Tria si els tooltips de MEE mostren les descripcions ampliades de MEE, les vanilla o totes dues. Els renderitzadors externs poden continuar usant les claus de traducció carregades.",
+    "UI_MEE_DescriptionModeMEE": "Descripcions de MEE",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + descripcions vanilla",
+    "UI_MEE_DescriptionModeVanilla": "Descripcions vanilla",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}

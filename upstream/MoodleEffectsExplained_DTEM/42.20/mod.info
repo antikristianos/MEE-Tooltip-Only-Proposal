@@ -1,0 +1,10 @@
+name=Moodle Effects Explained - DTEM
+id=MoodleEffectsExplainedDTEMB42
+incompatible=\MoodleEffectsExplainedB42,\MoodleEffectsExplainedExpandedMoodlesB42
+require=\DynamicTraits
+description=Variant for Dynamic Traits and Expanded Moodles. Includes vanilla moodle effects plus DTEM-specific vanilla moodle effects and dynamic trait notes. <LINE> Enable this variant instead of the regular or Expanded Moodles variants when using DTEM. <LINE> Requires Dynamic Traits and Expanded Moodles. <LINE> Uses JSON translations with %% escapes for visible percent symbols as required by newer Build 42 translation handling. <LINE> Keeps v1.1.2 fallback renderer performance optimizations and the Moodle description mode option.
+author=Afyrmo
+modversion=1.1.3
+versionMin=42.20.2
+icon=../common/mee_icon.png
+poster=../common/mee_poster.png

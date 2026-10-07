@@ -1,0 +1,16 @@
+UI_NO = {
+    UI_MEE_ModOptions_Title = "Moodle Effects Explained",
+    UI_MEE_TooltipFontSize = "Skriftstørrelse for moodle-verktøytips",
+    UI_MEE_TooltipFontSize_Tooltip = "Endrer bare skriftstørrelsen på verktøytipsene som Moodle Effects Explained tegner for moodler.",
+    UI_MEE_FallbackTooltipShadow = "Bakgrunnsskygge for reserveverktøytips",
+    UI_MEE_FallbackTooltipShadow_Tooltip = "Påvirker bare det interne reserveverktøytipset som brukes når Moodles in Lua ikke er aktivt. Slå det av hvis en annen UI-mod gir visuelle problemer med verktøytipsskyggen.",
+    UI_MEE_FontSmall = "Liten",
+    UI_MEE_FontMedium = "Middels",
+    UI_MEE_FontLarge = "Stor",
+    UI_MEE_TooltipDescriptionMode = "Moodle-beskrivelsesmodus",
+    UI_MEE_TooltipDescriptionMode_Tooltip = "Velg om MEE-verktøytips viser utvidede MEE-beskrivelser, vanilla-beskrivelser eller begge. Eksterne renderere kan fortsatt bruke innlastede oversettelsesnøkler.",
+    UI_MEE_DescriptionModeMEE = "MEE-beskrivelser",
+    UI_MEE_DescriptionModeMEEVanilla = "MEE + vanilla-beskrivelser",
+    UI_MEE_DescriptionModeVanilla = "Vanilla-beskrivelser",
+    UI_MEE_VanillaDescriptionHeader = "Vanilla:",
+}

@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Moodle ipucu yazı büyüklüğü",
+    "UI_MEE_TooltipFontSize_Tooltip": "Yalnızca Moodle Effects Explained tarafından çizilen moodle ipuçlarının yazı büyüklüğünü değiştirir.",
+    "UI_MEE_FallbackTooltipShadow": "Yedek ipucu arka plan gölgesi",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Yalnızca Moodles in Lua etkin olmadığında kullanılan dahili yedek ipucunu etkiler. Başka bir arayüz modu ipucu gölgesinde görsel sorunlara neden olursa devre dışı bırakın.",
+    "UI_MEE_FontSmall": "Küçük",
+    "UI_MEE_FontMedium": "Orta",
+    "UI_MEE_FontLarge": "Büyük",
+    "UI_MEE_TooltipDescriptionMode": "Moodle açıklama modu",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "MEE ipuçlarının genişletilmiş MEE açıklamalarını, vanilla açıklamaları veya ikisini birden göstermesini seçin. Harici ipucu işleyicileri yüklenen çeviri anahtarlarını kullanmaya devam edebilir.",
+    "UI_MEE_DescriptionModeMEE": "MEE açıklamaları",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + vanilla açıklamaları",
+    "UI_MEE_DescriptionModeVanilla": "Vanilla açıklamaları",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}

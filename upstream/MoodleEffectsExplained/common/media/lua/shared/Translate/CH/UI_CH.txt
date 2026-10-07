@@ -1,0 +1,16 @@
+UI_CH = {
+    UI_MEE_ModOptions_Title = "Moodle Effects Explained",
+    UI_MEE_TooltipFontSize = "心情圖示工具提示字體大小",
+    UI_MEE_TooltipFontSize_Tooltip = "只變更 Moodle Effects Explained 用於心情圖示工具提示的字體大小。",
+    UI_MEE_FallbackTooltipShadow = "備用工具提示背景陰影",
+    UI_MEE_FallbackTooltipShadow_Tooltip = "只影響 Moodles in Lua 未啟用時使用的內部備用工具提示。如果其他介面模組造成工具提示陰影的視覺問題，請停用此選項。",
+    UI_MEE_FontSmall = "小",
+    UI_MEE_FontMedium = "中",
+    UI_MEE_FontLarge = "大",
+    UI_MEE_TooltipDescriptionMode = "心情狀態描述模式",
+    UI_MEE_TooltipDescriptionMode_Tooltip = "選擇 MEE 提示顯示擴充描述、原版描述或兩者。外部提示渲染器仍可能使用已載入的翻譯鍵。",
+    UI_MEE_DescriptionModeMEE = "MEE 描述",
+    UI_MEE_DescriptionModeMEEVanilla = "MEE + 原版描述",
+    UI_MEE_DescriptionModeVanilla = "原版描述",
+    UI_MEE_VanillaDescriptionHeader = "原版：",
+}

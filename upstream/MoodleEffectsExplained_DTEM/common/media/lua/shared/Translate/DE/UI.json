@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Schriftgröße der Moodle-Tooltips",
+    "UI_MEE_TooltipFontSize_Tooltip": "Ändert nur die Schriftgröße der Moodle-Tooltips, die Moodle Effects Explained zeichnet.",
+    "UI_MEE_FallbackTooltipShadow": "Hintergrundschatten des Fallback-Tooltips",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Betrifft nur den internen Fallback-Tooltip, der verwendet wird, wenn Moodles in Lua nicht aktiv ist. Deaktivieren, wenn ein anderes UI-Mod visuelle Probleme mit dem Tooltip-Schatten verursacht.",
+    "UI_MEE_FontSmall": "Klein",
+    "UI_MEE_FontMedium": "Mittel",
+    "UI_MEE_FontLarge": "Groß",
+    "UI_MEE_TooltipDescriptionMode": "Moodle-Beschreibungsmodus",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Wählt, ob MEE-Tooltips die erweiterten MEE-Beschreibungen, die Vanilla-Beschreibungen oder beides anzeigen. Externe Tooltip-Renderer können weiterhin die geladenen Übersetzungsschlüssel verwenden.",
+    "UI_MEE_DescriptionModeMEE": "MEE-Beschreibungen",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + Vanilla-Beschreibungen",
+    "UI_MEE_DescriptionModeVanilla": "Vanilla-Beschreibungen",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}

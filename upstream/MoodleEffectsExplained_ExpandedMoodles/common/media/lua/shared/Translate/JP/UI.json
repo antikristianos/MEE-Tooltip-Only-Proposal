@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "ムードルツールチップのフォントサイズ",
+    "UI_MEE_TooltipFontSize_Tooltip": "Moodle Effects Explained がムードル用に表示するツールチップのフォントサイズだけを変更します。",
+    "UI_MEE_FallbackTooltipShadow": "代替ツールチップの背景影",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Moodles in Lua が有効でない場合に使われる内部代替ツールチップのみに影響します。ほかのUI Modでツールチップの影に表示問題が出る場合は無効にしてください。",
+    "UI_MEE_FontSmall": "小",
+    "UI_MEE_FontMedium": "中",
+    "UI_MEE_FontLarge": "大",
+    "UI_MEE_TooltipDescriptionMode": "ムードル説明モード",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "MEEのツールチップに拡張説明、バニラ説明、または両方を表示するか選択します。外部レンダラーは読み込まれた翻訳キーを使用する場合があります。",
+    "UI_MEE_DescriptionModeMEE": "MEEの説明",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + バニラ説明",
+    "UI_MEE_DescriptionModeVanilla": "バニラ説明",
+    "UI_MEE_VanillaDescriptionHeader": "バニラ:"
+}

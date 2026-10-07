@@ -1,0 +1,1 @@
+Placeholder file so B42.20.2 MP/server animation media scanning can enter this folder without logging a missing-directory error.

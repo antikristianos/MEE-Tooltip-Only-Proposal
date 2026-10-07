@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Velikost písma nápovědy moodlů",
+    "UI_MEE_TooltipFontSize_Tooltip": "Mění pouze velikost písma nápovědy, kterou Moodle Effects Explained vykresluje pro moodly.",
+    "UI_MEE_FallbackTooltipShadow": "Stín pozadí záložní nápovědy",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Ovlivňuje pouze interní záložní nápovědu používanou, když není aktivní Moodles in Lua. Vypněte ji, pokud jiný UI mod způsobuje vizuální problémy se stínem nápovědy.",
+    "UI_MEE_FontSmall": "Malé",
+    "UI_MEE_FontMedium": "Střední",
+    "UI_MEE_FontLarge": "Velké",
+    "UI_MEE_TooltipDescriptionMode": "Režim popisu moodlů",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Vyberte, zda tooltipy MEE zobrazí rozšířené popisy MEE, vanilla popisy nebo obojí. Externí renderery mohou stále používat načtené překladové klíče.",
+    "UI_MEE_DescriptionModeMEE": "Popisy MEE",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + vanilla popisy",
+    "UI_MEE_DescriptionModeVanilla": "Vanilla popisy",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}

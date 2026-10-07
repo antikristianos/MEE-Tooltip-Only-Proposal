@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Moodle-vihjeen fonttikoko",
+    "UI_MEE_TooltipFontSize_Tooltip": "Muuttaa vain fonttikokoa vihjeissä, jotka Moodle Effects Explained piirtää moodleille.",
+    "UI_MEE_FallbackTooltipShadow": "Varavihjeen taustan varjo",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Vaikuttaa vain sisäiseen varavihjeeseen, jota käytetään, kun Moodles in Lua ei ole aktiivinen. Poista käytöstä, jos toinen käyttöliittymämodi aiheuttaa visuaalisia ongelmia vihjeen varjossa.",
+    "UI_MEE_FontSmall": "Pieni",
+    "UI_MEE_FontMedium": "Keskikokoinen",
+    "UI_MEE_FontLarge": "Suuri",
+    "UI_MEE_TooltipDescriptionMode": "Moodle-kuvaustila",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Valitse, näyttävätkö MEE-työkaluvihjeet laajennetut MEE-kuvaukset, vanilla-kuvaukset vai molemmat. Ulkoiset renderöijät voivat silti käyttää ladattuja käännösavaimia.",
+    "UI_MEE_DescriptionModeMEE": "MEE-kuvaukset",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + vanilla-kuvaukset",
+    "UI_MEE_DescriptionModeVanilla": "Vanilla-kuvaukset",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}

@@ -1,0 +1,16 @@
+UI_KO = {
+    UI_MEE_ModOptions_Title = "Moodle Effects Explained",
+    UI_MEE_TooltipFontSize = "무들 툴팁 글꼴 크기",
+    UI_MEE_TooltipFontSize_Tooltip = "Moodle Effects Explained가 무들에 표시하는 툴팁의 글꼴 크기만 변경합니다.",
+    UI_MEE_FallbackTooltipShadow = "대체 툴팁 배경 그림자",
+    UI_MEE_FallbackTooltipShadow_Tooltip = "Moodles in Lua가 활성화되지 않았을 때 사용하는 내부 대체 툴팁에만 영향을 줍니다. 다른 UI 모드가 툴팁 그림자에 시각적 문제를 일으키면 비활성화하세요.",
+    UI_MEE_FontSmall = "작게",
+    UI_MEE_FontMedium = "중간",
+    UI_MEE_FontLarge = "크게",
+    UI_MEE_TooltipDescriptionMode = "무들 설명 모드",
+    UI_MEE_TooltipDescriptionMode_Tooltip = "MEE 툴팁에 확장 설명, 바닐라 설명 또는 둘 다를 표시할지 선택합니다. 외부 툴팁 렌더러는 로드된 번역 키를 계속 사용할 수 있습니다.",
+    UI_MEE_DescriptionModeMEE = "MEE 설명",
+    UI_MEE_DescriptionModeMEEVanilla = "MEE + 바닐라 설명",
+    UI_MEE_DescriptionModeVanilla = "바닐라 설명",
+    UI_MEE_VanillaDescriptionHeader = "바닐라:",
+}

@@ -1,0 +1,10 @@
+name=Moodle Effects Explained - Expanded Moodles
+id=MoodleEffectsExplainedExpandedMoodlesB42
+incompatible=\MoodleEffectsExplainedB42,\MoodleEffectsExplainedDTEMB42
+require=\ExpandedMoodles
+description=Variant for Expanded Moodles. Includes the vanilla moodle effects plus the extra effects added by Expanded Moodles. <LINE> Uses JSON translations with %% escapes for visible percent symbols as required by newer Build 42 translation handling. <LINE> Includes translation folders for all current non-test Project Zomboid language folders, using Project Zomboid language-code meanings such as AR = Spanish (Argentina). <LINE> Adds a client option to show MEE descriptions, vanilla descriptions, or both in supported MEE tooltip renderers. <LINE> Includes fallback renderer performance optimizations from v1.1.2.
+author=Afyrmo
+modversion=1.1.3
+versionMin=42.20.2
+icon=../common/mee_icon.png
+poster=../common/mee_poster.png

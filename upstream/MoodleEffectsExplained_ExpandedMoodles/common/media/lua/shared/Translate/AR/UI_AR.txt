@@ -1,0 +1,16 @@
+UI_AR = {
+    UI_MEE_ModOptions_Title = "Moodle Effects Explained",
+    UI_MEE_TooltipFontSize = "Tamaño de fuente de los tooltips de moodles",
+    UI_MEE_TooltipFontSize_Tooltip = "Solo cambia el tamaño de fuente de los tooltips de moodles que dibuja Moodle Effects Explained.",
+    UI_MEE_FallbackTooltipShadow = "Sombreado de fondo del tooltip alternativo",
+    UI_MEE_FallbackTooltipShadow_Tooltip = "Solo afecta al tooltip alternativo interno que se usa cuando Moodles in Lua no está activo. Desactivalo si otro mod de interfaz causa problemas visuales con el sombreado del tooltip.",
+    UI_MEE_FontSmall = "Pequeño",
+    UI_MEE_FontMedium = "Mediano",
+    UI_MEE_FontLarge = "Grande",
+    UI_MEE_TooltipDescriptionMode = "Modo de descripción de moodles",
+    UI_MEE_TooltipDescriptionMode_Tooltip = "Elegí si los tooltips de MEE muestran las descripciones ampliadas de MEE, las vanilla o ambas. Los renderizadores externos pueden seguir usando las claves de traducción cargadas.",
+    UI_MEE_DescriptionModeMEE = "Descripciones de MEE",
+    UI_MEE_DescriptionModeMEEVanilla = "MEE + descripciones vanilla",
+    UI_MEE_DescriptionModeVanilla = "Descripciones vanilla",
+    UI_MEE_VanillaDescriptionHeader = "Vanilla:",
+}

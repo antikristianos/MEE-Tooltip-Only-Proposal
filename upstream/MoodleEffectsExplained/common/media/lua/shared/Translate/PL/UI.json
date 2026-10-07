@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Rozmiar czcionki podpowiedzi nastrojów",
+    "UI_MEE_TooltipFontSize_Tooltip": "Zmienia tylko rozmiar czcionki podpowiedzi nastrojów wyświetlanych przez Moodle Effects Explained.",
+    "UI_MEE_FallbackTooltipShadow": "Cień tła zastępczej podpowiedzi",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Dotyczy tylko wewnętrznej zastępczej podpowiedzi używanej, gdy Moodles in Lua nie jest aktywny. Wyłącz tę opcję, jeśli inny mod interfejsu powoduje problemy wizualne z cieniem podpowiedzi.",
+    "UI_MEE_FontSmall": "Mała",
+    "UI_MEE_FontMedium": "Średnia",
+    "UI_MEE_FontLarge": "Duża",
+    "UI_MEE_TooltipDescriptionMode": "Tryb opisów moodli",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Wybierz, czy dymki MEE pokazują rozszerzone opisy MEE, opisy vanilla czy oba. Zewnętrzne renderery mogą nadal używać wczytanych kluczy tłumaczeń.",
+    "UI_MEE_DescriptionModeMEE": "Opisy MEE",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + opisy vanilla",
+    "UI_MEE_DescriptionModeVanilla": "Opisy vanilla",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}

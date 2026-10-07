@@ -1,0 +1,16 @@
+UI_TH = {
+    UI_MEE_ModOptions_Title = "Moodle Effects Explained",
+    UI_MEE_TooltipFontSize = "ขนาดตัวอักษรกล่องข้อความมูดเดิล",
+    UI_MEE_TooltipFontSize_Tooltip = "เปลี่ยนเฉพาะขนาดตัวอักษรของกล่องข้อความมูดเดิลที่ Moodle Effects Explained แสดง",
+    UI_MEE_FallbackTooltipShadow = "เงาพื้นหลังของกล่องข้อความสำรอง",
+    UI_MEE_FallbackTooltipShadow_Tooltip = "มีผลเฉพาะกับกล่องข้อความสำรองภายในที่ใช้เมื่อ Moodles in Lua ไม่ได้เปิดอยู่ ปิดตัวเลือกนี้หากม็อด UI อื่นทำให้เงากล่องข้อความแสดงผลผิดปกติ",
+    UI_MEE_FontSmall = "เล็ก",
+    UI_MEE_FontMedium = "ปานกลาง",
+    UI_MEE_FontLarge = "ใหญ่",
+    UI_MEE_TooltipDescriptionMode = "โหมดคำอธิบายมูดเดิล",
+    UI_MEE_TooltipDescriptionMode_Tooltip = "เลือกให้ทูลทิปของ MEE แสดงคำอธิบายแบบขยายของ MEE คำอธิบาย vanilla หรือทั้งสองแบบ ตัวเรนเดอร์ภายนอกอาจยังใช้คีย์แปลภาษาที่โหลดไว้",
+    UI_MEE_DescriptionModeMEE = "คำอธิบาย MEE",
+    UI_MEE_DescriptionModeMEEVanilla = "MEE + คำอธิบาย vanilla",
+    UI_MEE_DescriptionModeVanilla = "คำอธิบาย vanilla",
+    UI_MEE_VanillaDescriptionHeader = "Vanilla:",
+}

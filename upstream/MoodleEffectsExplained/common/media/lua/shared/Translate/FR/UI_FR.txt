@@ -1,0 +1,16 @@
+UI_FR = {
+    UI_MEE_ModOptions_Title = "Moodle Effects Explained",
+    UI_MEE_TooltipFontSize = "Taille de police des astuces d’humeurs",
+    UI_MEE_TooltipFontSize_Tooltip = "Modifie uniquement la taille de police des astuces d’humeurs affichées par Moodle Effects Explained.",
+    UI_MEE_FallbackTooltipShadow = "Ombre de fond de l’astuce de secours",
+    UI_MEE_FallbackTooltipShadow_Tooltip = "Affecte uniquement l’astuce de secours interne utilisée lorsque Moodles in Lua n’est pas actif. Désactivez cette option si un autre mod d’interface cause des problèmes visuels avec l’ombre de l’astuce.",
+    UI_MEE_FontSmall = "Petite",
+    UI_MEE_FontMedium = "Moyenne",
+    UI_MEE_FontLarge = "Grande",
+    UI_MEE_TooltipDescriptionMode = "Mode de description des moodles",
+    UI_MEE_TooltipDescriptionMode_Tooltip = "Choisissez si les infobulles MEE affichent les descriptions MEE détaillées, les descriptions vanilla ou les deux. Les rendus externes peuvent toujours utiliser les clés de traduction chargées.",
+    UI_MEE_DescriptionModeMEE = "Descriptions MEE",
+    UI_MEE_DescriptionModeMEEVanilla = "MEE + descriptions vanilla",
+    UI_MEE_DescriptionModeVanilla = "Descriptions vanilla",
+    UI_MEE_VanillaDescriptionHeader = "Vanilla :",
+}

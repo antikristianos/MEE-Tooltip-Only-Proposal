@@ -1,0 +1,16 @@
+UI_UA = {
+    UI_MEE_ModOptions_Title = "Moodle Effects Explained",
+    UI_MEE_TooltipFontSize = "Розмір шрифту підказок мудлів",
+    UI_MEE_TooltipFontSize_Tooltip = "Змінює лише розмір шрифту підказок мудлів, які відображає Moodle Effects Explained.",
+    UI_MEE_FallbackTooltipShadow = "Тінь фону резервної підказки",
+    UI_MEE_FallbackTooltipShadow_Tooltip = "Впливає лише на внутрішню резервну підказку, яка використовується, коли Moodles in Lua не активний. Вимкніть, якщо інший мод інтерфейсу спричиняє візуальні проблеми з тінню підказки.",
+    UI_MEE_FontSmall = "Маленький",
+    UI_MEE_FontMedium = "Середній",
+    UI_MEE_FontLarge = "Великий",
+    UI_MEE_TooltipDescriptionMode = "Режим описів мудлів",
+    UI_MEE_TooltipDescriptionMode_Tooltip = "Виберіть, чи показувати у підказках MEE розширені описи MEE, ванільні описи або обидва варіанти. Зовнішні рендерери можуть використовувати завантажені ключі перекладу.",
+    UI_MEE_DescriptionModeMEE = "Описи MEE",
+    UI_MEE_DescriptionModeMEEVanilla = "MEE + ванільні описи",
+    UI_MEE_DescriptionModeVanilla = "Ванільні описи",
+    UI_MEE_VanillaDescriptionHeader = "Ваніль:",
+}

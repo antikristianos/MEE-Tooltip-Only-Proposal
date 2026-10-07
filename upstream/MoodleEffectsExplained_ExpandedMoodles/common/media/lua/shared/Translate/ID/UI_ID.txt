@@ -1,0 +1,16 @@
+UI_ID = {
+    UI_MEE_ModOptions_Title = "Moodle Effects Explained",
+    UI_MEE_TooltipFontSize = "Ukuran font tooltip moodle",
+    UI_MEE_TooltipFontSize_Tooltip = "Hanya mengubah ukuran font tooltip yang digambar Moodle Effects Explained untuk moodle.",
+    UI_MEE_FallbackTooltipShadow = "Bayangan latar tooltip cadangan",
+    UI_MEE_FallbackTooltipShadow_Tooltip = "Hanya memengaruhi tooltip cadangan internal yang digunakan saat Moodles in Lua tidak aktif. Nonaktifkan jika mod UI lain menyebabkan masalah visual pada bayangan tooltip.",
+    UI_MEE_FontSmall = "Kecil",
+    UI_MEE_FontMedium = "Sedang",
+    UI_MEE_FontLarge = "Besar",
+    UI_MEE_TooltipDescriptionMode = "Mode deskripsi moodle",
+    UI_MEE_TooltipDescriptionMode_Tooltip = "Pilih apakah tooltip MEE menampilkan deskripsi MEE yang diperluas, deskripsi vanilla, atau keduanya. Perender eksternal masih dapat menggunakan kunci terjemahan yang dimuat.",
+    UI_MEE_DescriptionModeMEE = "Deskripsi MEE",
+    UI_MEE_DescriptionModeMEEVanilla = "MEE + deskripsi vanilla",
+    UI_MEE_DescriptionModeVanilla = "Deskripsi vanilla",
+    UI_MEE_VanillaDescriptionHeader = "Vanilla:",
+}

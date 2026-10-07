@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Moodle elemleírás betűmérete",
+    "UI_MEE_TooltipFontSize_Tooltip": "Csak a Moodle Effects Explained által megjelenített moodle elemleírások betűméretét módosítja.",
+    "UI_MEE_FallbackTooltipShadow": "Tartalék elemleírás háttérárnyéka",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Csak a belső tartalék elemleírást érinti, amely akkor használatos, amikor a Moodles in Lua nem aktív. Kapcsold ki, ha egy másik UI mod vizuális problémákat okoz az elemleírás árnyékával.",
+    "UI_MEE_FontSmall": "Kicsi",
+    "UI_MEE_FontMedium": "Közepes",
+    "UI_MEE_FontLarge": "Nagy",
+    "UI_MEE_TooltipDescriptionMode": "Moodle-leírás mód",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Válaszd ki, hogy a MEE eszköztippek a kibővített MEE-leírásokat, a vanilla leírásokat vagy mindkettőt mutassák. Külső megjelenítők továbbra is használhatják a betöltött fordítási kulcsokat.",
+    "UI_MEE_DescriptionModeMEE": "MEE-leírások",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + vanilla leírások",
+    "UI_MEE_DescriptionModeVanilla": "Vanilla leírások",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}
