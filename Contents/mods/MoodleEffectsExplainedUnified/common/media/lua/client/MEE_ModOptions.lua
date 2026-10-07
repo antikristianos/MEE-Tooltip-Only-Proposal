@@ -3,10 +3,9 @@ pcall(require, "PZAPI/ModOptions")
 --[[
     Moodle Effects Explained - client ModOptions
 
-    These options are client-side only. They control the internal Lua moodle
-    tooltip renderer used by this mod when the separate "Moodles in Lua" mod is
-    not active and no known external moodle renderer is managing the vanilla moodle row. If Moodles in Lua is active, MEE can also apply its tooltip font
-    size to Moodles in Lua through the optional compatibility patch.
+    These client-side options control MEE's native-column tooltip overlay.
+    The optional Moodles in Lua bridge shares the font and description-mode
+    options while the foreign renderer retains its own Moodle column.
 ]]
 
 MEE = MEE or {}

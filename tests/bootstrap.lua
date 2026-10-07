@@ -11,8 +11,8 @@ function check(condition, message)
 end
 fixture = {
     ui = probeUI, mouseX = 1880, mouseY = 130, activeIds = { probeHiResID },
-    levels = {}, fontHeight = 20, description = 'Line 1<br>Line 2<br>Line 3<br>Line 4<br>Line 5',
-    rects = {}, text = {}, drawnTypes = {}, registryReads = 0,
+    levels = {}, description = 'Line 1<br>Line 2<br>Line 3<br>Line 4<br>Line 5',
+    rects = {}, text = {}, drawnTypes = {},
 }
 if probeHiResID == '(no Hi-Res)' then
     fixture.activeIds = {}

@@ -122,8 +122,6 @@ local function meeShouldUseNativeTooltipOverlay()
     return true
 end
 
-local meeIsFallbackTooltipShadowEnabled
-
 local function meeNormalizeTooltipText(text)
     local normalized = tostring(text or "")
 
@@ -169,7 +167,7 @@ local function meeGetTooltipFont()
     return MEE_TOOLTIP_FONTS[fontIndex] or UIFont.Small
 end
 
-meeIsFallbackTooltipShadowEnabled = function()
+local function meeIsTooltipShadowEnabled()
     -- The background shadow can be disabled from Mod Options for compatibility.
     if MEE and MEE.Options and MEE.Options.FallbackTooltipShadow == false then
         return false
@@ -445,14 +443,10 @@ function MEEMoodlesLuaFallback:new()
     setmetatable(o, self)
     self.__index = self
     o.defaultMoodleSize = MEE_DEFAULT_MOODLE_SIZE
-    o.active = false -- Legacy property; not used to enable an icon renderer.
+    o.active = true -- Legacy status only; tooltip drawing never depends on it.
     o.useCharacter = nil
     o.playerNum = 0
     return o
-end
-
-function MEEMoodlesLuaFallback:start()
-    self.active = true
 end
 
 function MEEMoodlesLuaFallback:setCharacter(character)
@@ -583,7 +577,7 @@ function MEEMoodlesLuaFallback:drawTooltip(moodles, moodleType, moodleX, moodleY
     local textRightX = boxX + boxWidth - MEE_TOOLTIP_TEXT_PADDING
     local textY = boxY + MEE_TOOLTIP_VERTICAL_PADDING
 
-    if meeIsFallbackTooltipShadowEnabled() then
+    if meeIsTooltipShadowEnabled() then
         self:drawRect(boxX, boxY, boxWidth, boxHeight, MEE_TOOLTIP_BG_A, 0, 0, 0)
     end
 
@@ -622,7 +616,6 @@ local function meeEnsureFallback()
     o:instantiate()
     o.javaObject:setConsumeMouseEvents(false)
     o:addToUIManager()
-    o:start()
     o:setCharacter(getSpecificPlayer(0) or getPlayer())
     MEEMoodlesLuaFallback.instance = o
 

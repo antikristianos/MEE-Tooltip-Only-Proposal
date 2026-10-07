@@ -74,7 +74,7 @@ local function meeMILSplitLines(text)
 end
 
 local function meeMILGetTooltipFont()
-    -- Use the same client option as the internal MEE fallback renderer.
+    -- Use the same client font option as the native-column tooltip overlay.
     local fontIndex = 1
 
     if MEE and MEE.Options and MEE.Options.TooltipFontSize then

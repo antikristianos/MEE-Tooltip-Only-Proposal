@@ -1,6 +1,5 @@
 local instance = setmetatable({ active = false, playerNum = 0, defaultMoodleSize = 32,
-    useCharacter = fixture.character, previousMoodleLevels = {}, moodleOscillations = {},
-    moodleOscillationSteps = {}, alpha = 1, alphaIncrease = true }, { __index = MEEMoodlesLuaFallback })
+    useCharacter = fixture.character }, { __index = MEEMoodlesLuaFallback })
 instance.getWidth = function() return fixture.width or 0 end
 instance.getHeight = function() return fixture.height or 0 end
 instance.setWidth = function(_, value) fixture.width = value end

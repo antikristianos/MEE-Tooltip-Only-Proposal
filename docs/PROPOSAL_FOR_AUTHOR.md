@@ -4,7 +4,7 @@
 
 The native Moodle UI draws a fixed two-line tooltip background. MEE's longer translated descriptions overflow it. Replacing the entire Moodle column fixes tooltip sizing but introduces unnecessary ownership of icon placement, visibility, animation and foreign UI interactions. The existing external tooltip path also attempted a private Java-field read that is unavailable to normal Lua.
 
-This proposal makes MEE a tooltip extension: native/foreign owners keep their column, MEE measures and draws its text/background, and public collection APIs reproduce the actual native order. The preceding tooltip-only change has user-reported ingame acceptance; the subsequent unified package is statically/native-tested and awaiting its new manual acceptance.
+This proposal makes MEE a tooltip extension: native/foreign owners keep their column, MEE measures and draws its text/background, and public collection APIs reproduce the actual native order. The preceding tooltip-only change has user-reported ingame acceptance. Unified-package manual tests 1-3 are also user-confirmed passes; language change/reload test 4 was not performed and remains unconfirmed.
 
 ## One package instead of three mutually exclusive editions
 
@@ -24,6 +24,6 @@ The proposal stores all original Standard/EM/DTEM content under unique translati
 
 ## Review limits
 
-Validated runtime: installed Build 42.21. Future native map/order changes, unsupported foreign tooltip systems and older B42 APIs require separate checks. Both companion IDs are handled by MEE in either order; this does not assert that redundant gameplay effects from both companions are safe. The user's previous ingame success is documented without claiming it passes the newly implemented unification.
+Validated runtime: installed Build 42.21. Future native map/order changes, unsupported foreign tooltip systems and older B42 APIs require separate checks. Both companion IDs are handled by MEE in either order; this does not assert that redundant gameplay effects from both companions are safe. Manual results are documented separately for the previous and unified candidates, without extending test 1-3 passes to the unperformed fourth point.
 
 The runnable package uses a proposal-specific mod ID so the author can inspect it alongside the local baseline. It should be enabled alone as the MEE provider. The original Workshop ID is unchanged, and no Steam upload is part of this proposal.

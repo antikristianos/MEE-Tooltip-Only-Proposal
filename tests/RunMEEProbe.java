@@ -18,7 +18,6 @@ import zombie.ui.MoodlesUI;
 
 public final class RunMEEProbe {
     private static int lateCounter;
-    private static String sourceTree = "patched";
     @SuppressWarnings("unchecked")
     private static List<MoodleType> registryValues() throws Exception {
         var field = zombie.scripting.objects.Registry.class.getDeclaredField("values");
@@ -110,7 +109,6 @@ public final class RunMEEProbe {
     }
 
     public static void main(String[] args) throws Exception {
-        if (args.length > 1) sourceTree = args[1];
         zombie.core.random.RandStandard.INSTANCE.init();
         // This flag prevents texture/GPU initialization in this test JVM only.
         // No game client, dedicated server, or network service is launched.

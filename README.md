@@ -37,14 +37,16 @@ The zero-sized, non-interactive tooltip carrier retains the historical `MEEMoodl
 
 The preceding three-variant tooltip-only candidate was reported ingame successful by the user on **2026-10-07**; its exact acceptance is recorded in [the acceptance note](docs/accepted-tooltip-tests.md). That acceptance is not relabelled as a pass for the later unified package.
 
-The new candidate passes **52,848 assertions** against installed PZ **Build 42.21**:
+The user confirmed unified-package manual tests **1-3 passed** on **2026-10-07**. Test **4 (language change and save/game reload) was not performed**; the user's expectation that it should work is recorded as an expectation, not a pass. See [the completed test report](docs/reports/07.10.26.19.13%20%23%23Testbericht.md).
+
+The candidate passes **52,848 assertions** against installed PZ **Build 42.21**:
 
 - 4,266 tooltip/owner-order/cache/foreign-bridge assertions with actual Kahlua, Java keys and native Moodle UI objects.
 - 48,582 profile assertions using the native `Translator.tryFillMapFromFile` reader and public Lua map APIs, across all 28 languages and six activation combinations, including both companion orders and rejection of the unrelated `DynamicTraitsSE` lookalike.
 - Complete preservation of each original profile string, native percent/line formatting, all-or-nothing writes on missing data, delayed startup teardown and bounded foreign-class discovery.
 - Lua syntax, single-package metadata and Git whitespace checks.
 
-Production Lua needs no debug mode, Java agent or added JAR. Reflection exists only in test fixture setup/oracles. Rendering primitives and character inputs in the tests are fixtures: the new profile/package behavior still requires the manual test in `docs/reports/`.
+Production Lua needs no debug mode, Java agent or added JAR. Reflection exists only in test fixture setup/oracles. Rendering primitives and character inputs in the tests are fixtures: the unperformed manual test remains open in `docs/reports/`.
 
 ```powershell
 ./tools/Build-Package.ps1
@@ -57,7 +59,7 @@ The executed validation uses JDK 25. See [the test log](docs/validation/automate
 
 Use `Contents/mods/MoodleEffectsExplainedUnified` as a local mod package. Enable **Moodle Effects Explained - Unified Repair Proposal** and disable the three old MEE editions, which share internal MEE state and are alternate implementations of the same mod. There are no formal incompatibility declarations. Restart the whole game process between mod configurations.
 
-Only one MEE provider is required. Choose companions normally; do not manually select an MEE variant or reorder it around those companions. The new behavior still needs its own ingame acceptance before being described as accepted or release-ready.
+Only one MEE provider is required. Choose companions normally; do not manually select an MEE variant or reorder it around those companions. Manual acceptance is recorded per test; the unperformed fourth point is not relabelled as passed.
 
 No Steam Workshop ID has been created or changed. No Workshop upload is performed by this repository or its tools.
 
