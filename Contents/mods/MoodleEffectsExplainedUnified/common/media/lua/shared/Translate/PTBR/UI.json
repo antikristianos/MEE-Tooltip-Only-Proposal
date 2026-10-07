@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Tamanho da fonte das dicas dos moodles",
+    "UI_MEE_TooltipFontSize_Tooltip": "Altera apenas o tamanho da fonte das dicas dos moodles exibidas por Moodle Effects Explained.",
+    "UI_MEE_FallbackTooltipShadow": "Sombra de fundo da dica alternativa",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Afeta apenas a dica alternativa interna usada quando Moodles in Lua não está ativo. Desative se outro mod de interface causar problemas visuais com a sombra da dica.",
+    "UI_MEE_FontSmall": "Pequeno",
+    "UI_MEE_FontMedium": "Médio",
+    "UI_MEE_FontLarge": "Grande",
+    "UI_MEE_TooltipDescriptionMode": "Modo de descrição dos moodles",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Escolha se os tooltips do MEE mostram as descrições expandidas do MEE, as vanilla ou ambas. Renderizadores externos ainda podem usar as chaves de tradução carregadas.",
+    "UI_MEE_DescriptionModeMEE": "Descrições do MEE",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + descrições vanilla",
+    "UI_MEE_DescriptionModeVanilla": "Descrições vanilla",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}

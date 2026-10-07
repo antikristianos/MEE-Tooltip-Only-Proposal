@@ -1,0 +1,8 @@
+name=Moodle Effects Explained - Unified Repair Proposal
+id=MoodleEffectsExplainedUnified
+description=Unofficial repair proposal for Afyrmo's Moodle Effects Explained. One package automatically selects Standard, Expanded Moodles or DTEM descriptions. Tooltip-only: no replacement Moodle column. Original descriptions and artwork by Afyrmo.
+author=Afyrmo (original); Antikristianos (repair proposal)
+modversion=0.1
+versionMin=42.20.2
+icon=../common/mee_icon.png
+poster=../common/mee_poster.png

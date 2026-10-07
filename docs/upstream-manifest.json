@@ -1,0 +1,1130 @@
+[
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/mee_poster.png",
+        "Sha256":  "F94FDA889931373425F1F0B17DF70E34546FCFC45D781933DAE504E1D9465174"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/mee_icon.png",
+        "Sha256":  "04ECACB1E97B0263E73F31902FFECB1731E096A9679D2C0E85514418FAF3FAB5"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/actiongroups/placeholder_no_actiongroups.txt",
+        "Sha256":  "BB32570A819292F281FDC2BCF69392AED4E0903860BA445744A7EACE19D349EC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/mod.info",
+        "Sha256":  "DF8B6F4C934CC4CA26FD8B04E3B0CE8B0DA23334F6DCCE52B9F92AE0CF624DFB"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/mee_poster.png",
+        "Sha256":  "F94FDA889931373425F1F0B17DF70E34546FCFC45D781933DAE504E1D9465174"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/mee_icon.png",
+        "Sha256":  "04ECACB1E97B0263E73F31902FFECB1731E096A9679D2C0E85514418FAF3FAB5"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/UA/UI_UA.txt",
+        "Sha256":  "2DDA5EFD9672DD547F603BDB13C66A2D3D64AA12D4E747A2B138AA0FDDDCB5D9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/UA/UI.json",
+        "Sha256":  "AEAD7ECFFAF980EEB417FBA32685A073633F020B3C2B7FC7842BE4FF6A297112"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/TR/UI_TR.txt",
+        "Sha256":  "FD830A3F2D242188B0FD9DB1E5B771CA4CD8FCE76B6092860871F3F0F2517850"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/TR/UI.json",
+        "Sha256":  "F4D5913BFCBF10A9C0108A96BFA48840D4596A4DDA934DC9BF192144084DB1E9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/TH/UI_TH.txt",
+        "Sha256":  "510C4E702BCB4BD0A45BFDF7434C78D7ABF7681D1980FCB8EB3ACF243C30F4D8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/TH/UI.json",
+        "Sha256":  "7CD4F4E1CDF8D1777DB600395E33BEB3477634049C24FBABC57EC4B34B6EEAA4"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/RU/UI_RU.txt",
+        "Sha256":  "98E939EB3B8DF1F3B27B620C017F698E57A9CB04881E6353911AD2656B72EF7A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/RU/UI.json",
+        "Sha256":  "8D6560A3932C8D9751BEF5B36619CE98E24906AAD4274A8DE3C3F4AA73364524"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/RO/UI_RO.txt",
+        "Sha256":  "20EF4CF6A3A4F41C7C78AA65CF5A7881E975D3468A195D133DDE6C849AE88B9E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/RO/UI.json",
+        "Sha256":  "EC0B2F46CEC2B593330FCDDA856E82212550400C1AC7BF59A0679F31FE7CC97C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/PTBR/UI_PTBR.txt",
+        "Sha256":  "1767047CDA012EFD43DF403BD10198F5180DB9B820C6827A5FAFEF637FE20DE0"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/PTBR/UI.json",
+        "Sha256":  "1F2C51E120524CD369CEF3A4663727095F9EB2027E8BD39231CB3116E11F8A79"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/PT/UI_PT.txt",
+        "Sha256":  "989CF68A467A42EA606A59514133EA2B4EB816E74A16DB289416135E2E68288D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/UA/Moodles.json",
+        "Sha256":  "59D3F948DA1FEB75BF4A0B63344229098D02EB153C638A15608ED52DAD2CACF3"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/PT/UI.json",
+        "Sha256":  "8E0B4A8D4D089CF0D946E652888F01298AB208A0EF7B8052985A9F829AC187F8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/UA/UI_UA.txt",
+        "Sha256":  "2DDA5EFD9672DD547F603BDB13C66A2D3D64AA12D4E747A2B138AA0FDDDCB5D9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/UA/UI.json",
+        "Sha256":  "AEAD7ECFFAF980EEB417FBA32685A073633F020B3C2B7FC7842BE4FF6A297112"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/TR/Moodles.json",
+        "Sha256":  "99D5A420549E4C81F2B3A576A4C6BB6FE381F6404923AFD67262A0A3CD292DA6"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/PL/UI_PL.txt",
+        "Sha256":  "66ED3BCDF8FAE75B5767B737A3D60B67DC2C5D4FF37939BC289F7FE10A9BA7C4"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/PL/UI.json",
+        "Sha256":  "3048142AD9B9953FDBFEF4B290AE89DF13669131ACC00FEF05FE2410143679C8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/TR/UI_TR.txt",
+        "Sha256":  "FD830A3F2D242188B0FD9DB1E5B771CA4CD8FCE76B6092860871F3F0F2517850"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/TR/UI.json",
+        "Sha256":  "F4D5913BFCBF10A9C0108A96BFA48840D4596A4DDA934DC9BF192144084DB1E9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/TH/Moodles.json",
+        "Sha256":  "BE6FAC5834E58E1A59B2D0C8817F6223C51B3E4FE5E946FA37F419CA9338FA77"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/NO/UI_NO.txt",
+        "Sha256":  "83012E0CA90DC68AFFAE4DA0A7BBA3F42FBABA406880EDEC74B9BB81AE7CBBD5"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/NO/UI.json",
+        "Sha256":  "CC28548848568181912F1F963BCEE94E00773CB0FCCED4DFC2677347D15AF471"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/RU/Moodles.json",
+        "Sha256":  "6F090796340E325CC005545B8CED9F95D438321FAE178536C70B936C24E306A1"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/TH/UI_TH.txt",
+        "Sha256":  "510C4E702BCB4BD0A45BFDF7434C78D7ABF7681D1980FCB8EB3ACF243C30F4D8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/TH/UI.json",
+        "Sha256":  "7CD4F4E1CDF8D1777DB600395E33BEB3477634049C24FBABC57EC4B34B6EEAA4"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/NL/UI_NL.txt",
+        "Sha256":  "F25C052C74D25A0EA88A2253B406DC3A89705BF36EA73ECA578C86427C5E7E4A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/NL/UI.json",
+        "Sha256":  "07BFE5F978064E56ECDB585A0E88E9A1B84C9D07A70AC33BF4722C2337EE7FB7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/RU/UI_RU.txt",
+        "Sha256":  "98E939EB3B8DF1F3B27B620C017F698E57A9CB04881E6353911AD2656B72EF7A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/RO/Moodles.json",
+        "Sha256":  "2D7AC3C27230ABD5ED13ED17582E37E463A3CE9ACB75D695167C7C2EF3C056A8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/RU/UI.json",
+        "Sha256":  "8D6560A3932C8D9751BEF5B36619CE98E24906AAD4274A8DE3C3F4AA73364524"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/KO/UI_KO.txt",
+        "Sha256":  "0135E9A2C18B2F8A8DC99C2CD7F3F71ABB9EC58339E5C17FE89D7A0168885F48"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/KO/UI.json",
+        "Sha256":  "20131902750BFDC5FA379B6A12E4C407BBDE36AE2D56319B7A90F477CCFE692F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/PTBR/Moodles.json",
+        "Sha256":  "118187143A1C479CC4354958A8D56A593574E8B56DC7C704A257065311C6AEAE"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/JP/UI_JP.txt",
+        "Sha256":  "5F0277CF2BF16B51E53B190EDD40030A739DAE1A9BEA5B918F6560A62972F375"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/JP/UI.json",
+        "Sha256":  "E0C26BE898458ED3E20AB019392309BB0B5EFA0366C5F2ACB519458CB47FCBB9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/RO/UI_RO.txt",
+        "Sha256":  "20EF4CF6A3A4F41C7C78AA65CF5A7881E975D3468A195D133DDE6C849AE88B9E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/RO/UI.json",
+        "Sha256":  "EC0B2F46CEC2B593330FCDDA856E82212550400C1AC7BF59A0679F31FE7CC97C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/ES/UI_ES.txt",
+        "Sha256":  "D7C8DD23C3C9BB2E933377725B1EDF18A6FDB30372523DE2A0E7DF63375424B0"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/ES/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/client/MEE_MoodlesLuaFallback.lua",
+        "Sha256":  "DCC4290F757E6A051581A5B4C06A808A7AFF4A6AF371CAD8068F8C50B5AF89D2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/client/MEE_MoodlesInLuaCompat.lua",
+        "Sha256":  "100F3F909C27F27232E9822778664F39008921B1574237351D20BB55F410E677"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/client/MEE_ModOptions.lua",
+        "Sha256":  "AD12E5B21AD3C1C9AD7CA03A783DFCEDF4E4C6879B6824C18E90EF017AAECEBC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/ES_CL/UI_ES_CL.txt",
+        "Sha256":  "68EF95C20926ACFC5CF9800B751D6A08477E4448F33CD3A5C8ABC135C48B79E8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/ES_CL/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/AnimSets/placeholder_no_animsets.txt",
+        "Sha256":  "D41CA34CD62FDB1E6CA7C968D7E6A1D5B95BB1ACE9AF1B21276259B5EF998DD2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/ES_MX/UI_ES_MX.txt",
+        "Sha256":  "D28F0F7366EB09D5FF486EBDE43E7CD48E2450980EDC417F4E1D4709C525E284"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/ES_MX/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/ID/UI_ID.txt",
+        "Sha256":  "B585433DA0AD3FD0B7F6008C7A70117DED5ECE21229A3E50E999DB3A0A509EEC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/ID/UI.json",
+        "Sha256":  "5008C7C648B8ECE3D005B6B2BCC62BDC47D798D1B553AE82B32001CD0FA34017"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/EN/UI_EN.txt",
+        "Sha256":  "DD77E00497C4F390CD67646715C9701AD89F0A916B7D0AE380D8D4C9047EBE2D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/EN/UI.json",
+        "Sha256":  "E4EF71D89CEBA0C307B8FE60E44EAB172928A8B2B8694A8B6DA92023E8DA7D57"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/ES/UI_ES.txt",
+        "Sha256":  "D7C8DD23C3C9BB2E933377725B1EDF18A6FDB30372523DE2A0E7DF63375424B0"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/ES/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/PT/Moodles.json",
+        "Sha256":  "F85A995CE5E4724DF7A9A5546C78E6A8BC0F0A7EF55B0D2251EC1758372B1917"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/FR/UI_FR.txt",
+        "Sha256":  "5114AF0F132BFEEA50BF6B25793B0C64A00195DFFAA5D2FB44FD28108C8B6782"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/FR/UI.json",
+        "Sha256":  "6F0309B0EDA43C1F50D4DCCC1739EE065919EE5672594D89F04B1A685E6BA8D2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/FI/UI_FI.txt",
+        "Sha256":  "F1E9F494C44B1FDAF60EE486CA6BF3FBE0157CDB4246F29C0601F97C5374942C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/FI/UI.json",
+        "Sha256":  "CCED2D46AA8D9EFF3DCE0B790EDE64DBF44DC297D946079CDB7B3FA1A5EC9618"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/CA/UI_CA.txt",
+        "Sha256":  "112AC6F7CC24A8B3ADB606E870F8B82DC1447483A8405D8325B4F09E45797071"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/CA/UI.json",
+        "Sha256":  "54D2B74367C09757CC8859FA7D33D232981289B5EF5CF82807E247594065B769"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/PTBR/UI_PTBR.txt",
+        "Sha256":  "1767047CDA012EFD43DF403BD10198F5180DB9B820C6827A5FAFEF637FE20DE0"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/CS/UI_CS.txt",
+        "Sha256":  "9F6FC50E7E7A5B9CBDCAA86102D426F9AFB0605A2019074715E0ADC3072155FA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/PTBR/UI.json",
+        "Sha256":  "1F2C51E120524CD369CEF3A4663727095F9EB2027E8BD39231CB3116E11F8A79"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/CS/UI.json",
+        "Sha256":  "0C17958265E0B92E78C068CA2BE5F5DAD8073A34F948CC22704BF6E84DAD5E4F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/IT/UI_IT.txt",
+        "Sha256":  "3FD95F6BC682B2B93A08B1BACD22F2B550EB41D08119D756CD9A54BC21B1169E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/IT/UI.json",
+        "Sha256":  "79113E929F83306A1DE4C6F1961EBEDB28F755F65CE26E7269BF1756AA4A0486"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/DE/UI_DE.txt",
+        "Sha256":  "E4C32E5446A4FB483AD32FB065FE7B9D171D84048313DDB3EE1AD9AECBA2591A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/DE/UI.json",
+        "Sha256":  "993C4185FF8B444CD750EB7B3FC8CFD33F9DDC8C66B5F32B7BC00BBC9F5B9C80"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/EN/UI_EN.txt",
+        "Sha256":  "DD77E00497C4F390CD67646715C9701AD89F0A916B7D0AE380D8D4C9047EBE2D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/EN/UI.json",
+        "Sha256":  "E4EF71D89CEBA0C307B8FE60E44EAB172928A8B2B8694A8B6DA92023E8DA7D57"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/HU/UI_HU.txt",
+        "Sha256":  "8076A34C8E1129F55673250D719A832208509D2398484B5BA96CFE0FD269D230"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/HU/UI.json",
+        "Sha256":  "DBFFF8DB0E83FC5571B6C0453A089C6469B0675F6407C96797EC77E02EDCD840"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/NL/UI_NL.txt",
+        "Sha256":  "F25C052C74D25A0EA88A2253B406DC3A89705BF36EA73ECA578C86427C5E7E4A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/NL/UI.json",
+        "Sha256":  "07BFE5F978064E56ECDB585A0E88E9A1B84C9D07A70AC33BF4722C2337EE7FB7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/CH/UI_CH.txt",
+        "Sha256":  "C5A3FD1631AB67C356A8E2422E4BAFF0C5E0CBE89A4AA915E780CAD28E8C9FB9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/CH/UI.json",
+        "Sha256":  "A61B748CF404F0910D76E9C6C6D694BE8154A6132E70114FAC666F93EA572FEE"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/actiongroups/placeholder_no_actiongroups.txt",
+        "Sha256":  "BB32570A819292F281FDC2BCF69392AED4E0903860BA445744A7EACE19D349EC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/DA/UI_DA.txt",
+        "Sha256":  "8E85D2C43612904C7B690A8AE6CAFD23CFEBC9930F0E528E32E534CDFEF31353"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/DE/UI_DE.txt",
+        "Sha256":  "E4C32E5446A4FB483AD32FB065FE7B9D171D84048313DDB3EE1AD9AECBA2591A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/DA/UI.json",
+        "Sha256":  "5BF101E43237C5AE67BADA22DCC168312876D22690EFE7342BE0174AD07EBAAA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/DE/UI.json",
+        "Sha256":  "993C4185FF8B444CD750EB7B3FC8CFD33F9DDC8C66B5F32B7BC00BBC9F5B9C80"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/CN/UI_CN.txt",
+        "Sha256":  "DD385145F4CBC1C6372221A46D52F08ABFA79F9C275911C62EDB51CAE1C1C0A7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/CN/UI.json",
+        "Sha256":  "50B4CFBCEDBF6DB3861C38933378C78AA7DD8DA52D19EAAEA3061638E5AA1F2C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/ID/UI_ID.txt",
+        "Sha256":  "B585433DA0AD3FD0B7F6008C7A70117DED5ECE21229A3E50E999DB3A0A509EEC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/PL/Moodles.json",
+        "Sha256":  "4BB0F5EEF29D1B2597147E7E0D9DB17A7055D5CF575B30EA0E6457C2FEF7601D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/ID/UI.json",
+        "Sha256":  "5008C7C648B8ECE3D005B6B2BCC62BDC47D798D1B553AE82B32001CD0FA34017"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/IT/UI_IT.txt",
+        "Sha256":  "3FD95F6BC682B2B93A08B1BACD22F2B550EB41D08119D756CD9A54BC21B1169E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/IT/UI.json",
+        "Sha256":  "79113E929F83306A1DE4C6F1961EBEDB28F755F65CE26E7269BF1756AA4A0486"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/AR/UI_AR.txt",
+        "Sha256":  "DD2FA9B68849E962EE1599D267B7D44EB435DBB4D337BA41F472B56AC13572BA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/AR/UI.json",
+        "Sha256":  "C7928DDFD306B55E5EEB0F7C61B750EFEB00C2019312E936F45F48BC922C64C1"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/DA/UI_DA.txt",
+        "Sha256":  "8E85D2C43612904C7B690A8AE6CAFD23CFEBC9930F0E528E32E534CDFEF31353"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/DA/UI.json",
+        "Sha256":  "5BF101E43237C5AE67BADA22DCC168312876D22690EFE7342BE0174AD07EBAAA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/KO/UI_KO.txt",
+        "Sha256":  "0135E9A2C18B2F8A8DC99C2CD7F3F71ABB9EC58339E5C17FE89D7A0168885F48"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/KO/UI.json",
+        "Sha256":  "20131902750BFDC5FA379B6A12E4C407BBDE36AE2D56319B7A90F477CCFE692F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/mod.info",
+        "Sha256":  "A7827B1BD39FC77F2FDA4CFF494CC370D3F701C35BBC5D645D0751CB10E00E3D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/ES_CL/UI_ES_CL.txt",
+        "Sha256":  "68EF95C20926ACFC5CF9800B751D6A08477E4448F33CD3A5C8ABC135C48B79E8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/ES_CL/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/FI/UI_FI.txt",
+        "Sha256":  "F1E9F494C44B1FDAF60EE486CA6BF3FBE0157CDB4246F29C0601F97C5374942C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/HU/UI_HU.txt",
+        "Sha256":  "8076A34C8E1129F55673250D719A832208509D2398484B5BA96CFE0FD269D230"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/FI/UI.json",
+        "Sha256":  "CCED2D46AA8D9EFF3DCE0B790EDE64DBF44DC297D946079CDB7B3FA1A5EC9618"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/HU/UI.json",
+        "Sha256":  "DBFFF8DB0E83FC5571B6C0453A089C6469B0675F6407C96797EC77E02EDCD840"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/CS/UI_CS.txt",
+        "Sha256":  "9F6FC50E7E7A5B9CBDCAA86102D426F9AFB0605A2019074715E0ADC3072155FA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/CS/UI.json",
+        "Sha256":  "0C17958265E0B92E78C068CA2BE5F5DAD8073A34F948CC22704BF6E84DAD5E4F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/PT/UI_PT.txt",
+        "Sha256":  "989CF68A467A42EA606A59514133EA2B4EB816E74A16DB289416135E2E68288D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/PT/UI.json",
+        "Sha256":  "8E0B4A8D4D089CF0D946E652888F01298AB208A0EF7B8052985A9F829AC187F8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/ES_MX/UI_ES_MX.txt",
+        "Sha256":  "D28F0F7366EB09D5FF486EBDE43E7CD48E2450980EDC417F4E1D4709C525E284"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/ES_MX/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/JP/UI_JP.txt",
+        "Sha256":  "5F0277CF2BF16B51E53B190EDD40030A739DAE1A9BEA5B918F6560A62972F375"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/NO/Moodles.json",
+        "Sha256":  "D00B6DE2285F08ABCBE4D1B6101545457F8D2ABEEF5B46BFDE6110FD19357E67"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/JP/UI.json",
+        "Sha256":  "E0C26BE898458ED3E20AB019392309BB0B5EFA0366C5F2ACB519458CB47FCBB9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/FR/UI_FR.txt",
+        "Sha256":  "5114AF0F132BFEEA50BF6B25793B0C64A00195DFFAA5D2FB44FD28108C8B6782"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/FR/UI.json",
+        "Sha256":  "6F0309B0EDA43C1F50D4DCCC1739EE065919EE5672594D89F04B1A685E6BA8D2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/client/MEE_MoodlesLuaFallback.lua",
+        "Sha256":  "DCC4290F757E6A051581A5B4C06A808A7AFF4A6AF371CAD8068F8C50B5AF89D2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/client/MEE_MoodlesInLuaCompat.lua",
+        "Sha256":  "100F3F909C27F27232E9822778664F39008921B1574237351D20BB55F410E677"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/client/MEE_ModOptions.lua",
+        "Sha256":  "AD12E5B21AD3C1C9AD7CA03A783DFCEDF4E4C6879B6824C18E90EF017AAECEBC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/CN/UI_CN.txt",
+        "Sha256":  "DD385145F4CBC1C6372221A46D52F08ABFA79F9C275911C62EDB51CAE1C1C0A7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/CN/UI.json",
+        "Sha256":  "50B4CFBCEDBF6DB3861C38933378C78AA7DD8DA52D19EAAEA3061638E5AA1F2C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/EN/Moodles.json",
+        "Sha256":  "6D6012AF1A69D49D3FCB665E1C301B57166DFEFE09AA9978FDAE2DE508AC094C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/PL/UI_PL.txt",
+        "Sha256":  "66ED3BCDF8FAE75B5767B737A3D60B67DC2C5D4FF37939BC289F7FE10A9BA7C4"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/PL/UI.json",
+        "Sha256":  "3048142AD9B9953FDBFEF4B290AE89DF13669131ACC00FEF05FE2410143679C8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/CH/UI_CH.txt",
+        "Sha256":  "C5A3FD1631AB67C356A8E2422E4BAFF0C5E0CBE89A4AA915E780CAD28E8C9FB9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/NO/UI_NO.txt",
+        "Sha256":  "83012E0CA90DC68AFFAE4DA0A7BBA3F42FBABA406880EDEC74B9BB81AE7CBBD5"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/CH/UI.json",
+        "Sha256":  "A61B748CF404F0910D76E9C6C6D694BE8154A6132E70114FAC666F93EA572FEE"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/lua/shared/Translate/NO/UI.json",
+        "Sha256":  "CC28548848568181912F1F963BCEE94E00773CB0FCCED4DFC2677347D15AF471"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/NL/Moodles.json",
+        "Sha256":  "5F9CE9EEE8A0DF8FD80B59AC705C941A6D725ABD9C001EB3485C1048CED72718"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/DE/Moodles.json",
+        "Sha256":  "EF690057D4D4C83F674F7A4FB3F35752C017883B47A35B37FBC4654490F57E02"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/common/media/AnimSets/placeholder_no_animsets.txt",
+        "Sha256":  "D41CA34CD62FDB1E6CA7C968D7E6A1D5B95BB1ACE9AF1B21276259B5EF998DD2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/CA/Moodles.json",
+        "Sha256":  "CF5FAD977F48CEB7AE07F501AB64327F80BC2E302EE0C4F6531D8217E4475C40"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/CS/Moodles.json",
+        "Sha256":  "9945209084BB2C5BF070F20B0A4219A7BDD5DF20849536FDC4FD5FD4E0002C34"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/IT/Moodles.json",
+        "Sha256":  "DF094050F4F79B59785E6052F9E4FCFAF67FF11A35484DD76925EE6ED7F9F52D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/ES_MX/Moodles.json",
+        "Sha256":  "DAAE12CC6134521F8319B5E5CB7EFACBEF0767F40936034DE2BC7BADFE4E660F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/DA/Moodles.json",
+        "Sha256":  "464381711DF309859A9AF060B2EE9B8C9D33D4AC9A1D212D99C0384F49E23E9D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/HU/Moodles.json",
+        "Sha256":  "A923ADB23388097005DF711AD88F186A28D93CBC3EBF2DEF2CE60611AE87570B"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/CA/UI_CA.txt",
+        "Sha256":  "112AC6F7CC24A8B3ADB606E870F8B82DC1447483A8405D8325B4F09E45797071"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/CA/UI.json",
+        "Sha256":  "54D2B74367C09757CC8859FA7D33D232981289B5EF5CF82807E247594065B769"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/FI/Moodles.json",
+        "Sha256":  "5028A52EE7EF5A599D7B7A545CF5EDAD5E9F0B893C4896921EE3F435BEE60420"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/ES/Moodles.json",
+        "Sha256":  "AB97ABB0B8ECB819ACE78B160774B45082F051F4886F34941ECB83A9EE479345"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/AR/Moodles.json",
+        "Sha256":  "1A6FEDE29285B0B8D27F4B337FD2253E992AB077A89834BB3FBA508CA8CE893D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/KO/Moodles.json",
+        "Sha256":  "1C4C2F38F232CA68601DC9699663759FE73F80395A5B61FF0A48C6B429E2BE55"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/actiongroups/placeholder_no_actiongroups.txt",
+        "Sha256":  "BB32570A819292F281FDC2BCF69392AED4E0903860BA445744A7EACE19D349EC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/CN/Moodles.json",
+        "Sha256":  "FF3560F61E1A53C58B0549525E2CDAF9BA816275A94F907902F5B739EB1FE4B8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/FR/Moodles.json",
+        "Sha256":  "84C8DAF0CED24890065B9D275CDE2D5CEEAEFBD490950ABADCB2A86261DF0BB7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/ID/Moodles.json",
+        "Sha256":  "1B47982005034963725905EB181E994E034550D5610554D8FF1FFA458A5EBD9F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/actiongroups/placeholder_no_actiongroups.txt",
+        "Sha256":  "BB32570A819292F281FDC2BCF69392AED4E0903860BA445744A7EACE19D349EC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/AR/UI_AR.txt",
+        "Sha256":  "DD2FA9B68849E962EE1599D267B7D44EB435DBB4D337BA41F472B56AC13572BA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/common/media/lua/shared/Translate/AR/UI.json",
+        "Sha256":  "C7928DDFD306B55E5EEB0F7C61B750EFEB00C2019312E936F45F48BC922C64C1"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/ES_CL/Moodles.json",
+        "Sha256":  "728C592FD72C394BA5A55D6EF02355A6666326F8D5590B526A840C4A77D09F91"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/JP/Moodles.json",
+        "Sha256":  "95DD01D6F3CE50E3F2994018F4A70E850FD5341BBEB54A08E4E67D3756554332"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/AnimSets/placeholder_no_animsets.txt",
+        "Sha256":  "D41CA34CD62FDB1E6CA7C968D7E6A1D5B95BB1ACE9AF1B21276259B5EF998DD2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/AnimSets/placeholder_no_animsets.txt",
+        "Sha256":  "D41CA34CD62FDB1E6CA7C968D7E6A1D5B95BB1ACE9AF1B21276259B5EF998DD2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/DE/Moodles.json",
+        "Sha256":  "A5D9509CD0957481AE79419C6DB998381012D679D4D9F96C7920682902F8DCE2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_ExpandedMoodles/42.20/media/lua/shared/Translate/CH/Moodles.json",
+        "Sha256":  "274477AB4621993F4065A52C52E4A49EA2B8DDA967A84EE505FFE4A109634E73"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/CH/Moodles.json",
+        "Sha256":  "16B7E1EE2EE44CE287526654E851FA745314201983141BD27E5D9AE8F55E020B"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/EN/Moodles.json",
+        "Sha256":  "8B21881FF7DA8EF570C26DD55F11BE1F504BB61FB4455A8BACA83877DB3977B8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/ES_CL/Moodles.json",
+        "Sha256":  "31B01642597CE51F6FB9CB8824DD1DB2E1B600F4D564F6576592AE24EB179AB2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/AR/Moodles.json",
+        "Sha256":  "2ED04183AA6850B0A8E9C6A58A4D3907FA46B0ED11D0A7AB9E0C44DFB143C6D7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/UA/Moodles.json",
+        "Sha256":  "A2D3661495D861DED5F185AF6C12DBA6D0A5C36D0AA2D239C70C1A68A19DBCF3"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/CA/Moodles.json",
+        "Sha256":  "3B7B4E729E73329103314553539644706A0A9B41233246458FA81E52A11EEB55"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/HU/Moodles.json",
+        "Sha256":  "033F6833485ECFEB1C19FAA96C2B933DA371D403BC9BFFDE499BC1113EE003E7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/ES/Moodles.json",
+        "Sha256":  "84A12958AA8152F54B2B2A91114CF2AA59C07AE056D4795FEB1ACF3DDA4CE28E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/NL/Moodles.json",
+        "Sha256":  "96A4C18DB772799E6815D60F46899BF3F453EC2BF36917A520C685040AAC258B"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/DA/Moodles.json",
+        "Sha256":  "5A176D19DCC4F46F67196EA19AE1CABE3918F43EFC4BEA5FD6558AC14DD6176B"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/IT/Moodles.json",
+        "Sha256":  "BEA5DD306DFB89D7CCB747041FB12AD927A9C38D80C271EFA664FCFF1E64233F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/FI/Moodles.json",
+        "Sha256":  "785160168700B8418B008086FEBD8D96A6D664FCD84B00BEB0DFD6DCEE43BF32"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/TR/Moodles.json",
+        "Sha256":  "2F7D73C6F7DCFF45324F3DCFC13F61891AF6091AB2D865A60E26167A42236244"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/CS/Moodles.json",
+        "Sha256":  "E0072E117F6736B966E7B2E1DB1ACE9DF1F4B1C9C1394DE61907493B362F24A6"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/PTBR/Moodles.json",
+        "Sha256":  "E2BBA8A2A34355ACB4E0B360A924FBDDB90111F4EAB7759D99F890635A634E3B"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/CN/Moodles.json",
+        "Sha256":  "AC12E731BBD353FD92B7DB65AE810786CE3CF23CAA40DCC492764BF8E6CD4213"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/FR/Moodles.json",
+        "Sha256":  "FDC207DACDF1487492938693BA511A57F059BF3193787561DECD885D7EF6A327"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/JP/Moodles.json",
+        "Sha256":  "C82E33B2788CB1A3D2FB13BB43863176A2B3BC8AB0ECA38FFF261DBFA9151D63"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/mee_poster.png",
+        "Sha256":  "F94FDA889931373425F1F0B17DF70E34546FCFC45D781933DAE504E1D9465174"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/mee_icon.png",
+        "Sha256":  "04ECACB1E97B0263E73F31902FFECB1731E096A9679D2C0E85514418FAF3FAB5"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/ID/Moodles.json",
+        "Sha256":  "D0E1A66AC9F06596144F13EB00CD6235F030D6F6717FCA3DA92BF0B91483877D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/NO/Moodles.json",
+        "Sha256":  "6DA84AEF81041A7A7A0ABA68618B9A95569799090FEFC23D906C7F413F826E65"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/ES_MX/Moodles.json",
+        "Sha256":  "188F889B19B73AE7A38C767B56FE770985FA566412BC71267E03D3E7DAE832D0"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/PL/Moodles.json",
+        "Sha256":  "9A7DBB6827284628B49435F89E85410E7ADDB63544AC771B171BE61AD1C440EE"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/RU/Moodles.json",
+        "Sha256":  "D2EBAF560832A9B104F920D80CB7B336E31957330119185D560784F7B3B5FA7E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/TH/Moodles.json",
+        "Sha256":  "D9A8874A583F56562E24917C2586A8EBCB2A2B827CB93245002E642706AF6329"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/KO/Moodles.json",
+        "Sha256":  "CCF326CD435C3EB37F56515ADAA6482AB067F107D091FE26E72D37F22908D66A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/PT/Moodles.json",
+        "Sha256":  "946C2A63ED26E59FAA9ECE192F9CA4B206BDE98652A6DE2C8E69FAA7D8AF2019"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained/42.20/media/lua/shared/Translate/RO/Moodles.json",
+        "Sha256":  "0D48C729C8312E70B6BDAD7055A1747DE4E626C8BF4B7F81E269DF0896AFBB6E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/mod.info",
+        "Sha256":  "D5126C339E11002DB4C14FBDFE42A8B9CA4E2C53908BAB5AA07FD1D895959BE1"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/actiongroups/placeholder_no_actiongroups.txt",
+        "Sha256":  "BB32570A819292F281FDC2BCF69392AED4E0903860BA445744A7EACE19D349EC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/AnimSets/placeholder_no_animsets.txt",
+        "Sha256":  "D41CA34CD62FDB1E6CA7C968D7E6A1D5B95BB1ACE9AF1B21276259B5EF998DD2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/client/MEE_MoodlesLuaFallback.lua",
+        "Sha256":  "DCC4290F757E6A051581A5B4C06A808A7AFF4A6AF371CAD8068F8C50B5AF89D2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/client/MEE_MoodlesInLuaCompat.lua",
+        "Sha256":  "100F3F909C27F27232E9822778664F39008921B1574237351D20BB55F410E677"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/client/MEE_ModOptions.lua",
+        "Sha256":  "AD12E5B21AD3C1C9AD7CA03A783DFCEDF4E4C6879B6824C18E90EF017AAECEBC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/actiongroups/placeholder_no_actiongroups.txt",
+        "Sha256":  "BB32570A819292F281FDC2BCF69392AED4E0903860BA445744A7EACE19D349EC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/AnimSets/placeholder_no_animsets.txt",
+        "Sha256":  "D41CA34CD62FDB1E6CA7C968D7E6A1D5B95BB1ACE9AF1B21276259B5EF998DD2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/UA/UI_UA.txt",
+        "Sha256":  "2DDA5EFD9672DD547F603BDB13C66A2D3D64AA12D4E747A2B138AA0FDDDCB5D9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/UA/UI.json",
+        "Sha256":  "AEAD7ECFFAF980EEB417FBA32685A073633F020B3C2B7FC7842BE4FF6A297112"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/HU/UI_HU.txt",
+        "Sha256":  "8076A34C8E1129F55673250D719A832208509D2398484B5BA96CFE0FD269D230"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/HU/UI.json",
+        "Sha256":  "DBFFF8DB0E83FC5571B6C0453A089C6469B0675F6407C96797EC77E02EDCD840"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/TR/UI_TR.txt",
+        "Sha256":  "FD830A3F2D242188B0FD9DB1E5B771CA4CD8FCE76B6092860871F3F0F2517850"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/TR/UI.json",
+        "Sha256":  "F4D5913BFCBF10A9C0108A96BFA48840D4596A4DDA934DC9BF192144084DB1E9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/FR/UI_FR.txt",
+        "Sha256":  "5114AF0F132BFEEA50BF6B25793B0C64A00195DFFAA5D2FB44FD28108C8B6782"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/FR/UI.json",
+        "Sha256":  "6F0309B0EDA43C1F50D4DCCC1739EE065919EE5672594D89F04B1A685E6BA8D2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/TH/UI_TH.txt",
+        "Sha256":  "510C4E702BCB4BD0A45BFDF7434C78D7ABF7681D1980FCB8EB3ACF243C30F4D8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/TH/UI.json",
+        "Sha256":  "7CD4F4E1CDF8D1777DB600395E33BEB3477634049C24FBABC57EC4B34B6EEAA4"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/FI/UI_FI.txt",
+        "Sha256":  "F1E9F494C44B1FDAF60EE486CA6BF3FBE0157CDB4246F29C0601F97C5374942C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/FI/UI.json",
+        "Sha256":  "CCED2D46AA8D9EFF3DCE0B790EDE64DBF44DC297D946079CDB7B3FA1A5EC9618"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/RU/UI_RU.txt",
+        "Sha256":  "98E939EB3B8DF1F3B27B620C017F698E57A9CB04881E6353911AD2656B72EF7A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/RU/UI.json",
+        "Sha256":  "8D6560A3932C8D9751BEF5B36619CE98E24906AAD4274A8DE3C3F4AA73364524"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/ES_MX/UI_ES_MX.txt",
+        "Sha256":  "D28F0F7366EB09D5FF486EBDE43E7CD48E2450980EDC417F4E1D4709C525E284"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/ES_MX/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/RO/UI_RO.txt",
+        "Sha256":  "20EF4CF6A3A4F41C7C78AA65CF5A7881E975D3468A195D133DDE6C849AE88B9E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/RO/UI.json",
+        "Sha256":  "EC0B2F46CEC2B593330FCDDA856E82212550400C1AC7BF59A0679F31FE7CC97C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/ES_CL/UI_ES_CL.txt",
+        "Sha256":  "68EF95C20926ACFC5CF9800B751D6A08477E4448F33CD3A5C8ABC135C48B79E8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/UA/Moodles.json",
+        "Sha256":  "3560218B86BC798BA4B5B408612BD16E5C32B8251EE0CE1FBD11A1BA1ED12904"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/ES_CL/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/PTBR/UI_PTBR.txt",
+        "Sha256":  "1767047CDA012EFD43DF403BD10198F5180DB9B820C6827A5FAFEF637FE20DE0"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/PTBR/UI.json",
+        "Sha256":  "1F2C51E120524CD369CEF3A4663727095F9EB2027E8BD39231CB3116E11F8A79"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/PT/UI_PT.txt",
+        "Sha256":  "989CF68A467A42EA606A59514133EA2B4EB816E74A16DB289416135E2E68288D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/PT/UI.json",
+        "Sha256":  "8E0B4A8D4D089CF0D946E652888F01298AB208A0EF7B8052985A9F829AC187F8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/ES/UI_ES.txt",
+        "Sha256":  "D7C8DD23C3C9BB2E933377725B1EDF18A6FDB30372523DE2A0E7DF63375424B0"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/TR/Moodles.json",
+        "Sha256":  "79DAC2B301C2E61468E1EA83F71F7D0C4733E08FDF359381B8ACBE879C098A8C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/ES/UI.json",
+        "Sha256":  "6711511728A5C2916A56A819C6314DBD7922A421B054CB81DD9CF0534428392A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/PL/UI_PL.txt",
+        "Sha256":  "66ED3BCDF8FAE75B5767B737A3D60B67DC2C5D4FF37939BC289F7FE10A9BA7C4"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/PL/UI.json",
+        "Sha256":  "3048142AD9B9953FDBFEF4B290AE89DF13669131ACC00FEF05FE2410143679C8"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/TH/Moodles.json",
+        "Sha256":  "10A63093D22684DD55BDF77B5A7A57CD7B94F428D67AC443141FE1FD26FEDDCA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/EN/UI_EN.txt",
+        "Sha256":  "DD77E00497C4F390CD67646715C9701AD89F0A916B7D0AE380D8D4C9047EBE2D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/EN/UI.json",
+        "Sha256":  "E4EF71D89CEBA0C307B8FE60E44EAB172928A8B2B8694A8B6DA92023E8DA7D57"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/NO/UI_NO.txt",
+        "Sha256":  "83012E0CA90DC68AFFAE4DA0A7BBA3F42FBABA406880EDEC74B9BB81AE7CBBD5"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/NO/UI.json",
+        "Sha256":  "CC28548848568181912F1F963BCEE94E00773CB0FCCED4DFC2677347D15AF471"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/DE/UI_DE.txt",
+        "Sha256":  "E4C32E5446A4FB483AD32FB065FE7B9D171D84048313DDB3EE1AD9AECBA2591A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/DE/UI.json",
+        "Sha256":  "993C4185FF8B444CD750EB7B3FC8CFD33F9DDC8C66B5F32B7BC00BBC9F5B9C80"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/RU/Moodles.json",
+        "Sha256":  "AF797AC71E2CB441DCD458975E0BF41C0A8F0488094CA30403BA5981EECF8D11"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/NL/UI_NL.txt",
+        "Sha256":  "F25C052C74D25A0EA88A2253B406DC3A89705BF36EA73ECA578C86427C5E7E4A"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/NL/UI.json",
+        "Sha256":  "07BFE5F978064E56ECDB585A0E88E9A1B84C9D07A70AC33BF4722C2337EE7FB7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/DA/UI_DA.txt",
+        "Sha256":  "8E85D2C43612904C7B690A8AE6CAFD23CFEBC9930F0E528E32E534CDFEF31353"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/DA/UI.json",
+        "Sha256":  "5BF101E43237C5AE67BADA22DCC168312876D22690EFE7342BE0174AD07EBAAA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/RO/Moodles.json",
+        "Sha256":  "E1C4FA22C85A37DD2C3A9301E81485F15E153EF1F9EF564C13B156A61D1542B9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/KO/UI_KO.txt",
+        "Sha256":  "0135E9A2C18B2F8A8DC99C2CD7F3F71ABB9EC58339E5C17FE89D7A0168885F48"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/KO/UI.json",
+        "Sha256":  "20131902750BFDC5FA379B6A12E4C407BBDE36AE2D56319B7A90F477CCFE692F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/CS/UI_CS.txt",
+        "Sha256":  "9F6FC50E7E7A5B9CBDCAA86102D426F9AFB0605A2019074715E0ADC3072155FA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/CS/UI.json",
+        "Sha256":  "0C17958265E0B92E78C068CA2BE5F5DAD8073A34F948CC22704BF6E84DAD5E4F"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/PTBR/Moodles.json",
+        "Sha256":  "2229D7C3A8A98ECE589F9A4922446D54BDC70AD49267E45F1BD6E3A82E92F5FA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/JP/UI_JP.txt",
+        "Sha256":  "5F0277CF2BF16B51E53B190EDD40030A739DAE1A9BEA5B918F6560A62972F375"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/JP/UI.json",
+        "Sha256":  "E0C26BE898458ED3E20AB019392309BB0B5EFA0366C5F2ACB519458CB47FCBB9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/CN/UI_CN.txt",
+        "Sha256":  "DD385145F4CBC1C6372221A46D52F08ABFA79F9C275911C62EDB51CAE1C1C0A7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/CN/UI.json",
+        "Sha256":  "50B4CFBCEDBF6DB3861C38933378C78AA7DD8DA52D19EAAEA3061638E5AA1F2C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/IT/UI_IT.txt",
+        "Sha256":  "3FD95F6BC682B2B93A08B1BACD22F2B550EB41D08119D756CD9A54BC21B1169E"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/IT/UI.json",
+        "Sha256":  "79113E929F83306A1DE4C6F1961EBEDB28F755F65CE26E7269BF1756AA4A0486"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/PT/Moodles.json",
+        "Sha256":  "6CF84AF26FD616831F9D5858A7374291B5F1C7287BE315E65ACB6BE45A21F528"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/CH/UI_CH.txt",
+        "Sha256":  "C5A3FD1631AB67C356A8E2422E4BAFF0C5E0CBE89A4AA915E780CAD28E8C9FB9"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/CH/UI.json",
+        "Sha256":  "A61B748CF404F0910D76E9C6C6D694BE8154A6132E70114FAC666F93EA572FEE"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/ID/UI_ID.txt",
+        "Sha256":  "B585433DA0AD3FD0B7F6008C7A70117DED5ECE21229A3E50E999DB3A0A509EEC"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/ID/UI.json",
+        "Sha256":  "5008C7C648B8ECE3D005B6B2BCC62BDC47D798D1B553AE82B32001CD0FA34017"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/PL/Moodles.json",
+        "Sha256":  "63BA83C896BE0430371643101CB90FE49A71D149DD0957ABED557102F30299FA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/CA/UI_CA.txt",
+        "Sha256":  "112AC6F7CC24A8B3ADB606E870F8B82DC1447483A8405D8325B4F09E45797071"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/CA/UI.json",
+        "Sha256":  "54D2B74367C09757CC8859FA7D33D232981289B5EF5CF82807E247594065B769"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/AR/UI_AR.txt",
+        "Sha256":  "DD2FA9B68849E962EE1599D267B7D44EB435DBB4D337BA41F472B56AC13572BA"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/common/media/lua/shared/Translate/AR/UI.json",
+        "Sha256":  "C7928DDFD306B55E5EEB0F7C61B750EFEB00C2019312E936F45F48BC922C64C1"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/ES_CL/Moodles.json",
+        "Sha256":  "D492AE548EB10C982B77261C4C9DF4A47395C98B316864571DCD786CEB0B7E69"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/NO/Moodles.json",
+        "Sha256":  "781562B5674F6D2332B5DDE6712FCC7E55693B6253F3034181B4FDA8B4AEE64D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/CS/Moodles.json",
+        "Sha256":  "CB361CF3E4641124638E8F9048D358AF896F3B0C439B8E757D07FE3ED3A4A841"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/ES/Moodles.json",
+        "Sha256":  "DED6C6512ACCD5B8778915DB9027C911288231EF9095AE988FA92F02181DB1F0"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/CN/Moodles.json",
+        "Sha256":  "55D3E424F431F9C53A6A551393CA9B74ECDDA7B05F2620E8E3DD26E58F6A507B"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/EN/Moodles.json",
+        "Sha256":  "2B974B7B490F1C4F8B46BB39B1705EA6CBDE1B6C8E9E70A9345274E461836C92"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/NL/Moodles.json",
+        "Sha256":  "9FC60672D3CC2E6E465F556A66EC009D4D7B2FF61A995CDEBE3D5DC6D4E37008"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/CH/Moodles.json",
+        "Sha256":  "3A234FD93DA36032AB5975F24154F5BEF691C765ED290D1E80B56F0D8CA64270"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/DE/Moodles.json",
+        "Sha256":  "C2258229A25500758DFD2BA0E760BA0890018DD8D5E052EBE02B4DB335184144"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/CA/Moodles.json",
+        "Sha256":  "EB449FCB8BF04DD1AD7B60E005F9380B2CFB80E9D33D34A4BA8C0C4950EC2209"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/KO/Moodles.json",
+        "Sha256":  "316355F417CB3E90F7586DBD9B23D0E164467A7876B671D0596FBEA8F60F2718"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/DA/Moodles.json",
+        "Sha256":  "0DAD44FEFA6A6B530276FF1C6FAAC84E8AE76593261A8A0132D5FA5330FB1FE2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/AR/Moodles.json",
+        "Sha256":  "ADF6B53A6CC63FFB51315F15AEC332279C50F18741B1CE747C5AD055A9A410F2"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/FR/Moodles.json",
+        "Sha256":  "E6FC0259F90B5114256959F8A36278474B8C03521241707EE0FDDBC563462635"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/JP/Moodles.json",
+        "Sha256":  "77FD04217D325CD77D7B6B3CC923E882E09A7ED1A8917C309174E75FB3812AE7"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/ES_MX/Moodles.json",
+        "Sha256":  "A262FCB5818654B28FCBFCBFC6E557CE5980F4044F712DF5B2C7D990AE958308"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/FI/Moodles.json",
+        "Sha256":  "295A87A01986EE917465E331956741B892BBDD5427421E1056C0FA6898408849"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/HU/Moodles.json",
+        "Sha256":  "BF2F393A27BE4640ECA6405FA709B2920122E5B424CE3C667F4CC14A0CCC761C"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/IT/Moodles.json",
+        "Sha256":  "38375B9D67E6A8F794EDD21185531B0ED6B133A61DD5FAC94814F0794435162D"
+    },
+    {
+        "Path":  "upstream/MoodleEffectsExplained_DTEM/42.20/media/lua/shared/Translate/ID/Moodles.json",
+        "Sha256":  "39F46671A66DE66A624624F24B07C24B7129F29F28F9B970B044CA407E1FAAF8"
+    }
+]

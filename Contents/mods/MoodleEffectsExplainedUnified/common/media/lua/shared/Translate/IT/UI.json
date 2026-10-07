@@ -1,0 +1,16 @@
+{
+    "UI_MEE_ModOptions_Title": "Moodle Effects Explained",
+    "UI_MEE_TooltipFontSize": "Dimensione del carattere della descrizione comando degli stati d’animo",
+    "UI_MEE_TooltipFontSize_Tooltip": "Cambia solo la dimensione del carattere delle descrizioni comando degli stati d’animo mostrate da Moodle Effects Explained.",
+    "UI_MEE_FallbackTooltipShadow": "Ombra dello sfondo della descrizione comando di riserva",
+    "UI_MEE_FallbackTooltipShadow_Tooltip": "Influisce solo sulla descrizione comando interna di riserva usata quando Moodles in Lua non è attivo. Disattivala se un altro mod dell’interfaccia causa problemi visivi con l’ombra della descrizione comando.",
+    "UI_MEE_FontSmall": "Piccolo",
+    "UI_MEE_FontMedium": "Medio",
+    "UI_MEE_FontLarge": "Grande",
+    "UI_MEE_TooltipDescriptionMode": "Modalità descrizione moodle",
+    "UI_MEE_TooltipDescriptionMode_Tooltip": "Scegli se i tooltip di MEE mostrano le descrizioni MEE estese, quelle vanilla o entrambe. I renderer esterni possono comunque usare le chiavi di traduzione caricate.",
+    "UI_MEE_DescriptionModeMEE": "Descrizioni MEE",
+    "UI_MEE_DescriptionModeMEEVanilla": "MEE + descrizioni vanilla",
+    "UI_MEE_DescriptionModeVanilla": "Descrizioni vanilla",
+    "UI_MEE_VanillaDescriptionHeader": "Vanilla:"
+}
